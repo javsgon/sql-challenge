@@ -1,27 +1,16 @@
 # SQL Challenge
 
+## Objective
+Design the tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answer questions about the data. (Perform data modeling, data engineering, and data analysis)
+
 ## Background
-It’s been two weeks since you were hired as a new data engineer at Pewlett Hackard (a fictional company). Your first major task is to do a research project about people whom the company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.
-
-For this project, you’ll design the tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answer questions about the data. That is, you’ll perform data modeling, data engineering, and data analysis, respectively.
-
-## Before You Begin
-1- Create a new repository for this project called sql-challenge. Do not add this assignment to an existing repository.
-
-2- Clone the new repository to your computer.
-
-3- Inside your local Git repository, create a directory for this Challenge. Use a folder name that corresponds to the Challenge, such as EmployeeSQL.
-
-Note that you’ll add your files to this folder and push the changes to GitHub.
+As a new data engineer at Pewlett Hackard (a fictional company) the task is to do a research project about people whom the company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.
 
 ## Files
-Download the following files to help you get started: departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv, titles.csv
-
-## Instructions
-This Challenge is divided into three parts: data modeling, data engineering, and data analysis.
+departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv, titles.csv
 
 ### Data Modeling
-Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. To create the sketch, feel free to use a tool like QuickDBDLinks (https://app.quickdatabasediagrams.com/#/).
+Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. To create the sketch the use of the tool QuickDBDLinks was needed (https://app.quickdatabasediagrams.com/#/).
 
 ### Data Engineering
 1- Use the provided information to create a table schema for each of the six CSV files. Be sure to do the following:
