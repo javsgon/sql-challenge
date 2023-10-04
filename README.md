@@ -11,6 +11,7 @@ departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv, ti
 
 ### Data Modeling
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. To create the sketch the use of the tool QuickDBDLinks was needed (https://app.quickdatabasediagrams.com/#/).
+<img width="831" alt="Screenshot 2023-10-04 at 5 33 45 PM" src="https://github.com/javsgon/sql-challenge/assets/125521896/a5d1f169-9259-4f1e-bc2c-96b4ce94cc67">
 
 ### Data Engineering
 1- Use the provided information to create a table schema for each of the six CSV files. Be sure to do the following:
